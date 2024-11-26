@@ -41,6 +41,7 @@ The dataset is provided in **JSON** format with an array of objects, where each 
     "region_code": "EC"
   }
 ]
+```
 
 ## Keys in the JSON:
 
@@ -76,3 +77,4 @@ with open('railway_stations_india.json', 'r') as file:
 for station in data[:5]:  # Displaying first 5 stations
     print(f"Station Code: {station['station_code']}, Station Name: {station['station_name']}, Region Code: {station['region_code']}")
 
+```
