@@ -11,6 +11,7 @@ This dataset contains a list of all railway stations in India, including station
 - [Dataset Overview](#overview)
 - [Dataset Structure](#dataset-structure)
 - [Usage](#usage)
+- [How to Contribute](#how-to-contribute)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -60,6 +61,21 @@ You can use this dataset for:
 - **Mapping and Visualization**: Visualize Indian railway stations and their connections in geographical mapping software.
 
 ---
+## How to Contribute
+
+If you’d like to contribute to this dataset, here’s how you can help:
+
+- **Data Updates**: If you find any missing or incorrect data, feel free to fork the repository and submit a pull request with the necessary corrections or updates.
+- **Improvements**: You can enhance the dataset by adding new columns (such as geographical coordinates) or improving the data format.
+- **Documentation**: Help improve the documentation or contribute ideas on how the dataset can be made more useful.
+
+---
+
+## Steps to Contribute:
+
+1. **Fork the repository**.
+2. **Make your changes or improvements** in a new branch.
+3. **Submit a pull request** with a clear description of the changes.
 
 ## Example of how to load the dataset:
 
