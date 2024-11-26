@@ -11,7 +11,6 @@ This dataset contains a list of all railway stations in India, including station
 - [Dataset Overview](#overview)
 - [Dataset Structure](#dataset-structure)
 - [Usage](#usage)
-- [How to Contribute](#how-to-contribute)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
