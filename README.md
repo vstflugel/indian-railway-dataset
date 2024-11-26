@@ -78,3 +78,18 @@ for station in data[:5]:  # Displaying first 5 stations
     print(f"Station Code: {station['station_code']}, Station Name: {station['station_name']}, Region Code: {station['region_code']}")
 
 ```
+
+## License
+
+This dataset is shared under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this dataset as long as you include proper attribution.
+
+---
+
+## Acknowledgements
+
+This dataset was created from public data sources of IRCTC and contributed by Vaibhav Singh Tomar.
+
+If you found this dataset useful, consider sharing it or giving credit when using it in your own work.
+
